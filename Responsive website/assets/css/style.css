@@ -141,7 +141,7 @@ nav .fa{
 
 /*Course*/
 .course{
-    max-width:70%;
+    width:70%;
     margin:auto;
     text-align: center;
     padding-top:100px;
@@ -190,7 +190,7 @@ nav .fa{
 
 /*Goal*/
 .goal{
-    max-width:100%;
+    width:100%;
     height:auto;
     padding-top:100px;
     background-color:#F1F1F1 ;
@@ -206,7 +206,7 @@ nav .fa{
 
 /*slider area*/
 .goal .slider{
-    max-width:56%;
+    width:56%;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -286,7 +286,7 @@ nav .fa{
         padding-top:50px;
     }
     .goal .slider{
-        max-width:59%;
+        width:59%;
     }
     .goal .slider .card{
       max-width:230px;
@@ -321,7 +321,7 @@ nav .fa{
 
 /*Story*/
 .story{
-    max-width:100%;
+    width:100%;
     height:auto;
     background-color:#F1F1F1;
 }
@@ -451,7 +451,7 @@ nav .fa{
 
 /*action*/
 .action{
-    max-width:100%;
+    width:100%;
     height:auto;
     padding-top:30px;
     background-color:#F1F1F1;
@@ -465,7 +465,7 @@ nav .fa{
     text-align: center;
 }
 .action .action-slider{
-    max-width:72%;
+    width:72%;
     margin:auto;
     justify-content:center;
     align-items: center;
@@ -553,7 +553,7 @@ nav .fa{
 
 *project*/
 .project{
-    max-width:100%;
+    width:100%;
     height:auto;
     padding-top:140px;
     background-color:#F1F1F1;
@@ -632,7 +632,6 @@ nav .fa{
     }
     .project-box{
         flex-direction: column;
-        max-width:700px;
     }
     .project-box .project-content{
         text-align:left;
@@ -662,7 +661,7 @@ nav .fa{
 
 /* subscribe*/
 .subscribe-header{
-	max-width:70%;
+	width:70%;
 	margin:auto;
 	text-align:center;
 	margin-top:100px;
@@ -733,7 +732,7 @@ nav .fa{
 }
 /*footer*/
 .footer{
-    max-width:100%;
+    width:100%;
     padding:0;
     margin:0;
     box-sizing:border-box;
@@ -741,7 +740,7 @@ nav .fa{
 }
 
 .footer .row{
-    max-width:70%;
+    width:70%;
     margin:auto;
     display:flex;
     justify-content: space-between;
