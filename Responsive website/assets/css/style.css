@@ -826,6 +826,45 @@ nav .fa{
     .footer .row{
         flex-wrap:wrap;
     }
-
+    .footer .row .footer-col1{
+        line-height:25px;
+    }
+    .footer .row .footer-col1 img{
+        width:50px;
+        height:50px;
+    }
+    .footer .row .footer-col1 h2{
+        font-size:15px;
+    }
+    .footer .row .footer-col1 p{
+        font-size: 10px;
+    }
+    .footer .row .footer-col2{
+        line-height:20px;
+    }
+    .footer .row .footer-col2 ul li h4{
+        font-size:15px;
+    }
+    .footer .row .footer-col2 ul li a{
+        font-size: 10px;
+    }
+    .footer .row .footer-col3{
+        line-height:20px;
+    }
+    .footer .row .footer-col3 ul li h4{
+        font-size:15px;
+    }
+    .footer .row .footer-col3 ul li a{
+        font-size: 10px;
+    }
+    .footer .row .footer-col4{
+        line-height: 13px;
+    }
+    .footer .row .footer-col4 h4{
+        font-size:15px;
+    }
+    .footer .row .footer-col4 p{
+        font-size: 10px;
+    }
 }
 
