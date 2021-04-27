@@ -827,7 +827,7 @@ nav .fa{
         flex-wrap:wrap;
     }
     .footer .row .footer-col1{
-        line-height:25px;
+        line-height:20px;
     }
     .footer .row .footer-col1 img{
         width:50px;
@@ -858,7 +858,9 @@ nav .fa{
         font-size: 10px;
     }
     .footer .row .footer-col4{
-        line-height: 13px;
+        line-height: 15px;
+        margin-right: -42px;
+        margin-top: -4px;
     }
     .footer .row .footer-col4 h4{
         font-size:15px;
